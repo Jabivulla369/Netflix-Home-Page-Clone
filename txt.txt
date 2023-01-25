@@ -1,0 +1,6 @@
+Netflix Home Page Clone
+
+Let’s master our CSS skills a little more by making a Netflix home page clone using HTML, CSS, and JavaScript This will not only helps to master our skills, in addition, we will also learn about Positioning, and CSS Grids as well.
+
+
+Skills Required – CSS Grid, Styling Tables, Tabs with JavaScript, Positioning
